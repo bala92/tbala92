@@ -1,0 +1,92 @@
+#slideshowu294
+{
+	position: relative;
+}
+
+#u298
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u299,#u396,#u405,#u414
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u337-4,#u312-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #A67C52;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	line-height: 42px;
+	color: #42410B;
+	text-align: center;
+	font-size: 30px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u212
+{
+	vertical-align: top;
+	background: url("../images/u212.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u212:hover
+{
+	background: url("../images/u212-r.png") no-repeat 0px 0px;
+}
+
+#u283,#u423
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #5D0C0C;
+	opacity: 0.83;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
+	filter: alpha(opacity=83);
+	position: relative;
+}
+
+.js #u283.pre_init,.js #u423.pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u288-6,#u425-6
+{
+	line-height: 18px;
+	position: relative;
+}
+
+#u288-2,#u288-4,#u425-2,#u425-4
+{
+	color: #C69C6D;
+}
+
+#u286-4,#u424-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
